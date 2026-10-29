@@ -1,0 +1,20 @@
+[
+  {
+    "id": "REF-001",
+    "title": "Machine Learning Fundamentals",
+    "source": "Local synthetic reference",
+    "text": "Machine learning systems learn patterns from data to make predictions. Supervised learning uses labelled examples, while unsupervised learning identifies structure in unlabelled data. Model performance should be assessed using suitable validation data and metrics."
+  },
+  {
+    "id": "REF-002",
+    "title": "Network Security Principles",
+    "source": "Local synthetic reference",
+    "text": "Network security protects computer systems and information from unauthorized access. Firewalls filter traffic, encryption protects data in transit, and authentication verifies the identity of users. Security controls should be monitored and updated as threats evolve."
+  },
+  {
+    "id": "REF-003",
+    "title": "Renewable Energy Research",
+    "source": "Local synthetic reference",
+    "text": "Renewable energy technologies include solar and wind power. Energy storage helps balance fluctuations in electricity generation. Researchers compare efficiency, cost, environmental impact, and reliability when evaluating renewable energy systems."
+  }
+]
