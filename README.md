@@ -65,6 +65,7 @@ multimodal-integrity-engine/
 ├── run_integrity_check.py
 ├── EVALUATION.md
 └── README.md
+```
 
 ## 5. File-by-File Code Overview
 
